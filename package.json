@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "surrealdb.js": "^0.5.0"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "surreal_chat_api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "keywords": [],
+  "author": "Saarth Shah",
+  "license": "ISC",
+  "description": "Building a chat api using SurrealDB"
+}

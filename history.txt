@@ -1,0 +1,64 @@
+#V2
+SELECT * from message
+SELECT * from chat where chat -> message
+SELECT * from chat where -> message
+select 
+SELECT 
+SELECT -> message -> msg AS msg from chat:s79vkwgunok3nvyx4lmv
+SELECT -> message -> MESSAGE AS msg from chat:s79vkwgunok3nvyx4lmv
+SELECT * from message
+SELECT * from message:n1emiax1vly8xfw0v7bd
+select * from chat
+select * from MESSAGE where -> message -> chat
+SELECT * from message
+select * from chat where -> in_chatroom
+select * from chat WHERE -> in_chatroom
+select -> in_chatroom -> chat from message
+}
+SELECT ->like->friend.name AS friends FROM person:tobie;
+SELECT ->in_chatroom->chat from message
+SELECT ->in_chatroom from message
+SELECT ->in_chatroom from chat
+select * from message
+select * from message:n1emiax1vly8xfw0v7bd
+select * from MESSAGE:uhsusd5a4r9igrxq5hdt
+info for MESSAGE:uhsusd5a4r9igrxq5hdt
+select * fromMESSAGE:ayyxmhebxi0ic6fd318q
+select * from MESSAGE:ayyxmhebxi0ic6fd318q
+select ->in_chatroom from MESSAGE:ayyxmhebxi0ic6fd318q
+select * from message
+select * from MESSAGE
+select * from chat
+select ->contains from chat
+select ->contains->message from chat:m4u91v8z8jo35o9gua5a
+select message:twrfbp0j8409eba26glo
+select * from message:twrfbp0j8409eba26glo
+select ->contains->message from chat:m4u91v8z8jo35o9gua5a
+select * from message
+releate chat:qfykuo1ra9nxaf1w8z05->message:2kv6g5zq6hzdo6rxgabj
+relate chat:qfykuo1ra9nxaf1w8z05->message:2kv6g5zq6hzdo6rxgabj
+relate chat:qfykuo1ra9nxaf1w8z05->in->message:2kv6g5zq6hzdo6rxgabj
+relate chat:qfykuo1ra9nxaf1w8z05->contains->message:2kv6g5zq6hzdo6rxgabj
+select ->contains->message from chat:qfykuo1ra9nxaf1w8z05
+select ->contains from chat:qfykuo1ra9nxaf1w8z05
+select * from contains:fsl8k4w04e9y974zts93
+select * from message:2kv6g5zq6hzdo6rxgabj
+select message.message for message
+select * from message
+select message.message from message
+select message from message
+select ->contains->message from chat:qfykuo1ra9nxaf1w8z05
+select ->contains->message.message from chat:qfykuo1ra9nxaf1w8z05
+select ->contains->[message.message,message.sender] from chat:qfykuo1ra9nxaf1w8z05
+select ->contains->[message.message] from chat:qfykuo1ra9nxaf1w8z05
+select ->contains->{message.message,message.sender} from chat:qfykuo1ra9nxaf1w8z05
+select ->contains->message.message,message.sender from chat:qfykuo1ra9nxaf1w8z05
+select ->contains->[message.message,sender] from chat:qfykuo1ra9nxaf1w8z05
+select ->contains->message.message,sender from chat:qfykuo1ra9nxaf1w8z05
+select ->contains->message.message, ->contains->message.sender from chat:qfykuo1ra9nxaf1w8z05
+select ->contains->message.sender from chat:qfykuo1ra9nxaf1w8z05
+select ->contains.time from chat:qfykuo1ra9nxaf1w8z05
+select->contains.sender from chat:qfykuo1ra9nxaf1w8z05
+select ->contains.sender from chat:qfykuo1ra9nxaf1w8z05
+select ->contains->message.message from chat:qfykuo1ra9nxaf1w8z05
+select ->contains->message.message,->contains.time, ->contains.sender from chat:qfykuo1ra9nxaf1w8z05
